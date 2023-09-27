@@ -1,0 +1,76 @@
+* {
+  padding: 0;
+}
+
+body {
+  font-size: 20px;
+  background-color: #FEFFFE;
+}
+
+.flexbox {
+  border: 3px solid #E9EBF8;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+header{
+    background-color: #F8F2DC;
+}
+li {
+  list-style: none;
+}
+.Sobre {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+a {
+  text-decoration: none;
+  text-transform: none;
+  color: #8D818C;
+}
+
+
+.texto{
+    color: #8D818C;
+}
+
+.texto:hover{
+    background-color: red;
+    border-radius: 20px;
+    padding: 5px;
+    color: #000;
+}
+
+.imagem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.floresAmarelas {
+  border: 3px solid #E9EBF8;
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+}
+
+.transicao{
+ transition-duration: 4s; 
+ background-color: #000;
+transition-delay: 2ms;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+  background-color: bisque;
+}
+
+.floresAmarelas:hover{filter: grayscale(100%);}
+
+
