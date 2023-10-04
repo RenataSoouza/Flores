@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/FsUyUFvH7AUYo0py2W/giphy.gif" width=65>
 </div>
 <h1 align="center">
-  <a href="renatasoouza.github.io/flores/" target="_blank">Aula 08 🔗  </a>
+  <a href="https://renatasoouza.github.io/flores/" target="_blank">Aula 08 🔗  </a>
 </h1>
 
 ### 📖 Sobre
